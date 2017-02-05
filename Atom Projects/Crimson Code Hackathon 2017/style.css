@@ -1,0 +1,39 @@
+
+
+ul  {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  top: 0;
+  width: 100%;
+}
+
+h1.title {
+  font-size: 300%;
+  text-align: center;
+}
+
+div.navBar {
+
+}
+
+a {
+  color: #c0c5ce;
+  padding: 8px;
+}
+
+div.navBar li {
+  padding: 10px;
+  float: left;
+  border-right: 1px solid #bbb;
+  color: #c0c5ce;
+  background-color: #343d46;
+}
+
+h2 {
+  text-align: center;
+}
+
+div.paragraph {
+  display: inline;
+}
